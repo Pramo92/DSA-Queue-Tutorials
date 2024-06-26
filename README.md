@@ -1,5 +1,5 @@
 # DSA-Queue-Tutorials
-### 1.Write a program which prints given string as it is using queues.
+#### 1.Write a program which prints given string as it is using queues.
 ### 2. Write a program which appends two given strings such that the second string is appended to the end of the first string using a queue.
 Input:
 string1 : Hello
